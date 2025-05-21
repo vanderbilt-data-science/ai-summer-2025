@@ -58,13 +58,13 @@ For Wednesday's course, please download and sign up for the following:
 
 [Breakout Room Working Document](https://docs.google.com/document/d/15deDo3TBlgue_7ueoHake-O3HoEqCZKBZOHWfmfUlFQ/edit?usp=sharing)
 
-Wednesday: Langflow, Multimodal Models
+[Wednesday](https://vanderbilt.zoom.us/rec/share/WwmpwGQy-iZCZPpwrJak1naU0q2b41NixB9VzyyHieTsiCVkggqT8bBFHxCT8zzx.6pBwTTp2eOEXCONP?startTime=1747238161000): Langflow, Multimodal Models
 
-Friday: Reinforcement Learning
+[Friday](https://vanderbilt.zoom.us/rec/share/D--kMihRU_vG6ivslpILFCmIA807YUbSfnuAIdVGzBI9kZTKoS5c_jFponKB4tix.TwttSuARat9yTzs1?startTime=1747410966000): Reinforcement Learning
 
 ### Week 3, 5/19 - 5/23: Parameter Efficient Fine-Tuning and Retrieval Augmented Generation and UIs
 
-Monday: Parameter Efficient Finetuning, Introduction to RAG
+[Monday](https://vanderbilt.zoom.us/rec/share/alb6bUDURPc7_k5_-R0_gni8CNvL1Z6OkIwF5JlVOoTz9cw0L8T4TADb-TR-U1L1.IRjWqd2Z2vs23ml6?startTime=1747670103000): Parameter Efficient Finetuning, Introduction to RAG
 
 Wednesday: Advanced RAG Techniques, LangChain and LangGraph
 
