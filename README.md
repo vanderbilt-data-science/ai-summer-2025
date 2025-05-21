@@ -66,7 +66,7 @@ Friday: Reinforcement Learning
 
 Monday: Parameter Efficient Finetuning, Introduction to RAG
 
-Wednesday: Advanced RAG Techniques, LangChain and building UIs
+Wednesday: Advanced RAG Techniques, LangChain and LangGraph
 
 > No Class Friday, May 23 (Memorial Day Weekend)
 
