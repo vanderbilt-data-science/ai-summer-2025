@@ -66,7 +66,7 @@ For Wednesday's course, please download and sign up for the following:
 
 [Monday](https://vanderbilt.zoom.us/rec/share/alb6bUDURPc7_k5_-R0_gni8CNvL1Z6OkIwF5JlVOoTz9cw0L8T4TADb-TR-U1L1.IRjWqd2Z2vs23ml6?startTime=1747670103000): Parameter Efficient Finetuning, Introduction to RAG
 
-Wednesday: Advanced RAG Techniques, LangChain and LangGraph
+[Wednesday](https://vanderbilt.zoom.us/rec/share/McwfKnezRyWSdlsmRfw5bbO4vA2Yl0j_TKzIzMtD-wiVbQokM1B0uY_YcB2LrIRe.tfZ10EnISeOZ8eFf): Advanced RAG Techniques, LangChain and LangGraph
 
 > No Class Friday, May 23 (Memorial Day Weekend)
 
